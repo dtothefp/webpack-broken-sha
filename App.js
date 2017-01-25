@@ -7,7 +7,7 @@ export default class App extends React.Component {
       <div>
         <h1 className={styles.gold}>
           Helloooooo&nbsp;
-          <span className={styles.gold}>I'm broken :-(</span>
+          <span className={styles.gold}>I'm Still broken :-(</span>
         </h1>
       </div>
     );
